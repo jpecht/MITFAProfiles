@@ -1,20 +1,9 @@
-				
-State	" MFA Uncollected revenue, 2013 "	MFA uncollected revenue Growth Rate 2011-2013	" ITFA Grandfathered Provision Revenue,2013"	ITFA 2011-2013  growth rate
-Hawaii	 143.7 	10.0%	 20.4 	20.5%
-New Mexico	 274.8 	9.9%	 45.8 	22.9%
-North Dakota	 44.3 	10.7%	 14.8 	29.3%
-Ohio	 706.4 	9.4%	 47.8 	20.2%
-South Dakota	 89.9 	9.9%	 14.0 	22.2%
-Texas	" 1,765.6 "	8.1%	 275.3 	39.6%
-Wisconsin	 302.4 	9.8%	 96.3 	31.0%
-"Total, US"	" 26,106.5 "	10.2%	 514.5 	34.0%
-				
-				
-				
-				
-				
-				
-				
-				
-				
-				
+StateName	State	unc_revenue	unc_revenue_growth	for_revenue	for_revenue_growth
+Hawaii	HI	143.7	10.00%	20.4	20.50%
+New Mexico	NM	274.8	9.90%	45.8	22.90%
+North Dakota	ND	44.3	10.70%	14.8	29.30%
+Ohio	OH	706.4	9.40%	47.8	20.20%
+South Dakota	SD	89.9	9.90%	14	22.20%
+Texas	TX	1765.60	8.10%	275.3	39.60%
+Wisconsin	WI	302.4	9.80%	96.3	31.00%
+"Total, US"	US	26106.50	10.20%	514.5	34.00%
